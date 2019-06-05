@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Application
 
   def call(env)
@@ -21,3 +22,5 @@ class Application
   end
 
 end
+=======
+>>>>>>> 75550b590dec5dab9a90a8c84d403a456c3e1c74
